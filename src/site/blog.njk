@@ -1,16 +1,13 @@
 ---
-title: ElevenTail - Blog
+title: Martyn Taylor-Sherwood - Blog
 layout: default
 ---
-
-<section>
-  <h1 class="heading">Blog posts</h1>
-  <p>
-    All of these entries are posts in a collection
-  </p>
-  <ul>
-  {%- for item in collections.post | reverse -%}
-  {% include 'components/post-teaser.njk' %}
-  {%- endfor -%}
-  </ul>
+<section class="text-gray-500 bg-gray-900 body-font overflow-hidden">
+  <div class="container px-5 py-24 mx-auto">
+    <div class="-my-8">
+      {%- for item in collections.post | reverse -%}
+        {% include 'components/post-teaser.njk' %}
+      {%- endfor -%}
+    </div>
+  </div>
 </section>

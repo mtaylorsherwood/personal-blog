@@ -4,9 +4,13 @@ pageClass: posts
 templateEngineOverride: njk, md
 ---
 <section>
-  <time value="{{ item.date }}" class="text-gray-600">{{ date | readableDate }}</time>
-  <h1 class="heading">{{ title }}</h1>
-  <div class="mb-4 text-lg font-medium">
+  <time value="{{ item.date }}" class="text-gray-600">
+    {{ date | readableDate }}
+  </time>
+  <h1 class="sm:text-3xl text-2xl text-white font-medium title-font mb-2 md:w-2/5">
+    {{ title }}
+  </h1>
+  <div class="mb-4 leading-relaxed text-base">
     {{ content | section | safe }}
   </div>
   <div>
@@ -14,7 +18,7 @@ templateEngineOverride: njk, md
   </div>
   <div class="mt-12 pt-4 text-gray-600 text-sm border-t border-gray-300">
     <p>
-      This page is part of the <a href="/blog">blog</a> section.
+      Return to the <a href="/blog/">blog</a> posts list.
     </p>
   </div>
 </section>
