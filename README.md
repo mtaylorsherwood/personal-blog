@@ -1,6 +1,6 @@
 # Personal Blog
 
-[View the site](https://martyn.taylor-sherwood.co.uk)
+[View the site](https://martyn.taylorsherwood.co.uk)
 
 My personal website, serving primarily as a blog and a little bit of a code playground.
 
