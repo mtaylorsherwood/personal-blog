@@ -3,8 +3,8 @@ layout: default
 pageClass: posts
 templateEngineOverride: njk, md
 ---
-<section>
-  <time value="{{ item.date }}" class="text-gray-600">
+<section class="text-gray-500 bg-gray-900 body-font">
+  <time value="{{ item.date }}">
     {{ date | readableDate }}
   </time>
   <h1 class="sm:text-3xl text-2xl text-white font-medium title-font mb-2 md:w-2/5">
@@ -16,7 +16,7 @@ templateEngineOverride: njk, md
   <div>
     {{ content | section('remainder') | safe }}
   </div>
-  <div class="mt-12 pt-4 text-gray-600 text-sm border-t border-gray-300">
+  <div class="mt-12 pt-4 text-sm border-t border-gray-300">
     <p>
       Return to the <a href="/blog/">blog</a> posts list.
     </p>
