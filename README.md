@@ -12,6 +12,10 @@ Built using [11ty](https://www.11ty.dev/) for the static site generation and [Ta
 
 Hosted on Netlify.
 
+### Build Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6380215d-1e81-43de-90b2-a36092edb369/deploy-status)](https://app.netlify.com/sites/mtaylorsherwood/deploys)
+
 ## Changes
 
 View the [CHANGELOG](CHANGELOG.md)
