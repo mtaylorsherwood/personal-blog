@@ -2,9 +2,10 @@
 
 ## November 2020
 
-### 11/11/2020
+### 12/11/2020
 
 - Updated social media links
+- Tweaked homepage copy
 
 ## July 2020
 
