@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gingergibberish/personal-blog"
+    "url": "https://github.com/mtaylorsherwood/personal-blog"
   },
   "scripts": {
     "build": "npm-run-all build:css build:html",

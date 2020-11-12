@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## November 2020
+
+### 11/11/2020
+
+- Updated social media links
+
 ## July 2020
 
 ### 17/07/2020
