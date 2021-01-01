@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## January 2021
+
+### 01/01/2021
+
+- Updated copyright year to 2021
+
 ## November 2020
 
 ### 12/11/2020
