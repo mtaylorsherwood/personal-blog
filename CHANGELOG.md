@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## November 2021
+
+### 24/11/2021
+
+- Add different analytics and bump packages
+
 ## January 2021
 
 ### 01/01/2021
