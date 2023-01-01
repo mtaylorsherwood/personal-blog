@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## January 2023
+
+### 01/01/2023
+
+- Copyright bump
+
 ## November 2021
 
 ### 24/11/2021
